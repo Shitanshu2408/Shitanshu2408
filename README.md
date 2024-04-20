@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shitanshu2408&theme=" alt="Shitanshu2408" /></a> </p>
 
-- 🔭 I’m currently working on [Butter](https://teal-nasturtium-f6036a.netlify.app/#)
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 - 💬 Ask me about **Frontend Development, Video Editing**
 - 📫 How to reach me **shitanshubadwaik007@gmail.com**
 -  My Portfolio Webiste [Portfolio](https://shitanshubadwaik.netlify.app/)
