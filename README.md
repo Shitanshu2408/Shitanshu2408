@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Next JS**
 - Ask me about Data structures and Algorithms.
 - 💬 Ask me about **Web Development, Video Editing**
-- 📫 How to reach me **shitanshubadwaik007@gmail.com**
+- 📫 How to reach me **shitanshu.pict@gmail.com**
 
 
 <div> <a href="https://www.linkedin.com/in/shitanshu-badwaik-130597158" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
