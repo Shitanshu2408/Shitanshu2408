@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Shitanshu Badwaik</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shitanshu2408&label=Profile%20views&color=0e75b6&style=flat" alt="Shitanshu2408" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shitanshu2408&theme=" alt="Shitanshu2408" /></a> </p>
 
 - 🌱 I’m currently learning **Next JS**
 - Ask me about Data structures and Algorithms.
-- 💬 Ask me about **Frontend Development, Video Editing**
+- 💬 Ask me about **Web Development, Video Editing**
 - 📫 How to reach me **shitanshubadwaik007@gmail.com**
--  My Portfolio Webiste [Portfolio](https://shitanshubadwaik.netlify.app/)
+
 
 <div> <a href="https://www.linkedin.com/in/shitanshu-badwaik-130597158" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Shitanshu2408" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
